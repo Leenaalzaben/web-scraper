@@ -8,7 +8,7 @@
 
 1. Create virtual environment and Activated it
 
-> python3 -m venv .venv
+> python3 -m venv .venv <br>
 > source .venv/bin/activate
 
 2. To send requests to the websites
@@ -17,7 +17,7 @@
 
 3. To convert our Bytes data to HTML or other elements.
 
-> pip install ps4
+> pip install ps4<br>
 > pip install beautifulsoup4
 
 4. To Run
